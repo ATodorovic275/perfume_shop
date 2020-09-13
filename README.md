@@ -1,5 +1,5 @@
 # Perfume shop
-This was my 1th project on the subject of web programming PHP.
+This was my 1th project where i use PHP.
 
 # Used tehnologies:
   - Php
