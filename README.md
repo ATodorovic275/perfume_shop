@@ -1,7 +1,7 @@
 # Perfume shop
 This was my 1th project where i use PHP.
 
-# Used tehnologies:
+# Used technologies:
   - Php
   - Sql
   - Javascript
